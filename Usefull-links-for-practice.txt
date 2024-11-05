@@ -1,0 +1,14 @@
+1. Java 8  Practice:-
+   https://medium.com/@veenaraofr/java8-stream-api-commonly-asked-questions-about-employee-highest-salary-99c21cec4d98
+
+JAVA8 Stream API Commonly Asked Questions About Employee Highest salary
+
+2. DSA
+
+https://www.jennyslectures.com/courses/Mastering-Data-Structures-and-Algorithms-with-JAVA-66d7fe06b4f7fa3fb969f5c5
+ 
+https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+
+ 
+
+ 
